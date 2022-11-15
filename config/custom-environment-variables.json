@@ -1,0 +1,6 @@
+{
+    "mysql" : {
+        "user": "contactapp_sqluser",
+        "password" : "contactapp_sqlpassword"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name" : "contact App",
+    "version" : "1.0.0",
+    "db" : {
+        "mysql" : {
+            "host": "localhost",
+            "user": "root",
+            "password": "root",
+            "database": "contactdb"
+        }
+    }
+}
